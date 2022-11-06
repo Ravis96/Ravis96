@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ravis96</h1>
-<h3 align="center">A passionate java developer from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravis96&label=Profile%20views&color=0e75b6&style=flat" alt="ravis96" /> </p>
 
 - 🔭 I’m currently working on [DreamCode](discord.gg/dreamcode)
-
-- 🌱 I’m currently learning **Kotlin & Dart.**
 
 - 👯 I’m looking to collaborate on **Projects or Bukkit-Servers. (Minecraft)**
 
