@@ -5,5 +5,5 @@
 
 <h6>Contact by discord: Ravis96#0410</h6>
   
-👨‍💻 Languages : Java, Kotlin <br>
+👨‍💻 Languages, Tools : Java, Kotlin, Git, Gradle/Maven... <br>
 🚧 **Current Project:** [Dream-Platform](https://github.com/DreamPoland/dream-platform)
