@@ -5,3 +5,6 @@
 
 👨‍💻 Owner & Leader of [DreamCode](https://github.com/DreamPoland) <br>
 💻 Open-Source projects: [Dream-Template](https://github.com/DreamPoland/dream-template) on [Dream-Platform](https://github.com/DreamPoland/dream-platform), [Dream-Menu](https://github.com/DreamPoland/dream-menu), [Dream-Command](https://github.com/DreamPoland/dream-command), [Dream-Notice](https://github.com/DreamPoland/dream-notice) and [Dream-Utilities](https://github.com/DreamPoland/dream-utilities).
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
