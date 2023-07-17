@@ -9,6 +9,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
+From: 08 July 2023 - To: 15 July 2023
+
+Total Time: 1 hr 41 mins
+
 Java             1 hr 3 mins     ███████████████▓░░░░░░░░░   62.56 %
 Groovy           25 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.14 %
 Gradle           5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
