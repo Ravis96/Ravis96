@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 July 2023 - To: 22 July 2023
+From: 16 July 2023 - To: 23 July 2023
 
-Total Time: 7 hrs 14 mins
+Total Time: 7 hrs 35 mins
 
-Java             3 hrs 4 mins    ██████████▓░░░░░░░░░░░░░░   42.47 %
-Kotlin           1 hr 19 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.21 %
-TypeScript       42 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
-Properties       20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-Gradle           19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+Java             2 hrs 16 mins   ███████▒░░░░░░░░░░░░░░░░░   29.86 %
+Kotlin           1 hr 19 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.36 %
+TypeScript       1 hr 12 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.98 %
+HTML             32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
+CSS              28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
 ```
 
 <!--END_SECTION:waka-->
