@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 August 2023 - To: 11 August 2023
+From: 05 August 2023 - To: 12 August 2023
 
-Total Time: 2 hrs 44 mins
+Total Time: 2 hrs 33 mins
 
-Java           2 hrs 20 mins   █████████████████████▒░░░   85.43 %
-Groovy         9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
-Gradle         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-Markdown       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-Kotlin         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Java           2 hrs 17 mins   ██████████████████████▒░░   89.86 %
+Groovy         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+Gradle         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+Markdown       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+YAML           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
 
 <!--END_SECTION:waka-->
