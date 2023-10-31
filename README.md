@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 October 2023 - To: 28 October 2023
+From: 22 October 2023 - To: 29 October 2023
 
-Total Time: 9 hrs 41 mins
+Total Time: 4 hrs 30 mins
 
-Java             7 hrs 55 mins   ████████████████████▒░░░░   81.86 %
-Groovy           48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
-Gradle           26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-Markdown         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-Other            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+Java             3 hrs 36 mins   ████████████████████░░░░░   80.10 %
+Groovy           24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
+Gradle           9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+Other            7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+GitIgnore file   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
 ```
 
 <!--END_SECTION:waka-->
