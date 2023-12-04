@@ -9,15 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 November 2023 - To: 01 December 2023
+From: 25 November 2023 - To: 02 December 2023
 
-Total Time: 21 mins
+Total Time: 0 secs
 
-Kotlin       7 mins          █████████░░░░░░░░░░░░░░░░   35.38 %
-Java         6 mins          ████████░░░░░░░░░░░░░░░░░   32.13 %
-XML          6 mins          ████████░░░░░░░░░░░░░░░░░   31.74 %
-Gradle       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
