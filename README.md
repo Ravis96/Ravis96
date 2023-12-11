@@ -9,11 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2023 - To: 07 December 2023
+From: 02 December 2023 - To: 09 December 2023
 
-Total Time: 0 secs
+Total Time: 2 hrs 48 mins
 
-No activity tracked
+Java       1 hr 35 mins    ██████████████░░░░░░░░░░░   56.56 %
+Markdown   30 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.02 %
+Gradle     26 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.74 %
+Groovy     8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+Kotlin     7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
 ```
 
 <!--END_SECTION:waka-->
