@@ -9,14 +9,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 December 2023 - To: 01 January 2024
+From: 26 December 2023 - To: 02 January 2024
 
-Total Time: 1 hr 49 mins
+Total Time: 1 hr 55 mins
 
-Java       1 hr 36 mins    ██████████████████████░░░   88.00 %
-Groovy     7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
-Gradle     5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Java       1 hr 41 mins    ██████████████████████░░░   88.49 %
+Groovy     7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+Gradle     5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
