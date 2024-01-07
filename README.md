@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2023 - To: 04 January 2024
+From: 29 December 2023 - To: 05 January 2024
 
-Total Time: 3 hrs 4 mins
+Total Time: 4 hrs 12 mins
 
-Java              1 hr 36 mins    █████████████░░░░░░░░░░░░   52.50 %
-Kotlin            40 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.81 %
-Java Properties   12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
-Groovy            8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-Text              8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+Java              2 hrs 48 mins   ████████████████▓░░░░░░░░   66.72 %
+Kotlin            41 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.33 %
+Java Properties   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+Text              8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+textmate          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
 ```
 
 <!--END_SECTION:waka-->
