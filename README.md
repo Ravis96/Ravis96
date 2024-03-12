@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 March 2024 - To: 09 March 2024
+From: 03 March 2024 - To: 10 March 2024
 
-Total Time: 9 hrs 40 mins
+Total Time: 9 hrs 9 mins
 
-Java           9 hrs 18 mins   ████████████████████████░   96.14 %
-Kotlin         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-Groovy         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-Markdown       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-Gradle         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Java           8 hrs 46 mins   ████████████████████████░   95.92 %
+Kotlin         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+Groovy         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Markdown       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Gradle         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
