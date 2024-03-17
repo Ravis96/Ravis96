@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 March 2024 - To: 14 March 2024
+From: 08 March 2024 - To: 15 March 2024
 
-Total Time: 1 hr 39 mins
+Total Time: 3 hrs 11 mins
 
-Java             56 mins         ██████████████▒░░░░░░░░░░   57.52 %
-Gradle           21 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.77 %
-Groovy           7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
-GitIgnore file   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
-Markdown         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+Java             2 hrs 14 mins   █████████████████▓░░░░░░░   70.10 %
+Gradle           30 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.05 %
+Groovy           10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+Markdown         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+GitIgnore file   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
 ```
 
 <!--END_SECTION:waka-->
